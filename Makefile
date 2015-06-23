@@ -1,3 +1,4 @@
+all: run
 
 www/elm/Main.js: Main.elm
 	elm make --output www/elm/Main.js Main.elm
