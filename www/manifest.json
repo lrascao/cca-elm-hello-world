@@ -16,8 +16,5 @@
     },
     "permissions": [
         "<all_urls>"
-    ],
-    "plugins": [
-        { "path": "cordova-plugin-legacy-whitelist" }
     ]
 }
